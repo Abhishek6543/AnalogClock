@@ -1,1 +1,1 @@
-A simple angular clock made using HTML and CSS.
+A simple analog clock made using HTML and CSS.
