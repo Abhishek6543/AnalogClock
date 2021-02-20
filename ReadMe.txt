@@ -1,0 +1,1 @@
+A simple angular clock made using HTML and CSS.
